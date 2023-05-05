@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "hide-files.files": [],
+    "files.associations": {
+        "display.h": "c",
+        "arduino.h": "c",
+        "tft_espi.h": "c",
+        "lv_port_disp.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerPath": "D:\\mingw64\\bin\\clang++.exe"
+}
