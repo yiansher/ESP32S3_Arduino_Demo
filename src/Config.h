@@ -3,6 +3,7 @@
 
 #include <stdbool.h>
 #include <stdint.h>
+#include <Arduino.h>
 
 #define NUMPIXELS 1
 #define PIN_NEOPIXEL 48
